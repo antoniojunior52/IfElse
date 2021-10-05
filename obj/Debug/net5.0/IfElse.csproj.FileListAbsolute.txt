@@ -1,0 +1,5 @@
+C:\projetos\ams\1ano\semestre2\UsandoIfElse\IfElse\obj\Debug\net5.0\IfElse.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\UsandoIfElse\IfElse\obj\Debug\net5.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\UsandoIfElse\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\UsandoIfElse\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\UsandoIfElse\IfElse\obj\Debug\net5.0\IfElse.csproj.CoreCompileInputs.cache
